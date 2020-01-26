@@ -1,11 +1,12 @@
-################################################
-#                                              #
-# Joseph Dennison                              #
-# ECE 351-51                                   #
-# Lab 0                                        #
-# 1/21/20                                      #
-#                                              #
-#################################################
+##################################################
+#                                                #
+# Joseph Dennison                                #
+# ECE 351-51                                     #
+# Lab 0                                          #
+# 1/21/20                                        #
+# Create template and answer starting questions  #
+#                                                #
+##################################################
 
 import numpy as np
 import matplotlib.pyplot as plt
