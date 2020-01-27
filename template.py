@@ -19,5 +19,5 @@ import pandas as pd
 #This summer I plan for an internship either in the analog or digital field
 
 #Question 2
-#Personally, I want to inprove my python, Latex, and Github skills
+#Personally, I want to improve my python, Latex, and Github skills
 #Change the wording from familiar to knowledgeable in my resume
